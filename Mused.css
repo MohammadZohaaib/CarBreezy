@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+/* .body{
+    background: linear-gradient(120deg,rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)),url(bg2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.navbar-nav > li{
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 600;
+}
+
+.navbar{
+    background-color:#91382B;
+}
+.txt .bmw{
+    background: linear-gradient(rgba(0, 0, 0, 0.617),rgba(0, 0, 0, 0.657)),url(images/honda/mern3.jpg);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer{
+    background-color: #91382B;
+}
+.col-md-2 a{
+    text-decoration: none;
+}
+.col-md-5 {
+    list-style: none;
+}
+.row a{
+    text-decoration: none;
+}
